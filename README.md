@@ -52,7 +52,7 @@ const shubham = {
         },
         devOps: ["Docker🐳", "Route53", "Nginx", "Ansible", "Apache", "Jenkins"],
         databases: ["mongodb", "MySql", "sqlite", "postgresql"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp", "fastai", "tensorflow"]
+        misc: ["Firebase", "Socket.IO", "open-cv", "php", "html", "css", "fastai", "tensorflow"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "3 Tier Applications"],
     randomQuote: "If the code hasn't failed once, does it really work?"
