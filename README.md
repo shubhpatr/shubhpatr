@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif
 -->
 
-<h2>I'm Shubham Mohapatra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>I'm Shubham Mohapatra! <img src="" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4772khx3bj1hkz1hk39r73xfti9blipeuzccxdf3vn&rid=giphy.gif&ct=g" width="230">
 <p><em>Cloud Specialist and Full Stack Developer </p>
-
 
 ---
 [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1][![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 npx shubham
 ```
 
-### <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4772khx3bj1hkz1hk39r73xfti9blipeuzccxdf3vn&rid=giphy.gif&ct=g" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
     
 ```javascript
