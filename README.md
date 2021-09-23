@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p><em>Cloud Specialist and Full Stack Developer </p>
 
 
-[![Linkedin: thaianebraga](https://www.linkedin.com/in/shubhammohapatra/)
+[![Linkedin] (https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)(https://www.linkedin.com/in/shubhammohapatra/)
 ![GitHub followers](https://img.shields.io/github/followers/shubhpatr?label=Follow&style=social)
 
 
@@ -57,5 +57,5 @@ const anmol = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 
