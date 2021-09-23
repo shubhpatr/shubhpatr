@@ -34,11 +34,12 @@ Here are some ideas to get you started:
 npx shubham
 ```
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4772khx3bj1hkz1hk39r73xfti9blipeuzccxdf3vn&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
+    
 ```javascript
 const shubham = {
-    code: ["Javascript", "C++", "Python", "Java", "php"],
+    code: ["Javascript", "C++", "Python", "R", "MATLAB"],
     askMeAbout: ["web dev", "tech", "app dev", "soccer", "cloud"],
     technologies: {
         cloud: ["AWS", "GCP", "Azure"],
