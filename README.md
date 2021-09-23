@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif
+
 -->
 
-<h2>I'm Shubham Mohapatra! <img src="" width="50"></h2>
+<h2>I'm Shubham Mohapatra! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif?cid=ecf05e4772khx3bj1hkz1hk39r73xfti9blipeuzccxdf3vn&rid=giphy.gif&ct=g" width="230">
 <p><em>Cloud Specialist and Full Stack Developer </p>
 
